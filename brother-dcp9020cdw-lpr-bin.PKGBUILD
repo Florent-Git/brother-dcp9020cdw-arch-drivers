@@ -1,3 +1,4 @@
+#!/bin/makepkg -p
 # Maintainer: floshie_ <florent.ram@gmail.com>
 
 pkgname=brother-dcp9020cdw-lpr-bin
